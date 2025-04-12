@@ -3,3 +3,5 @@
 /homepage.html
 /Last version
 /oldversion
+# Local Netlify folder
+.netlify
